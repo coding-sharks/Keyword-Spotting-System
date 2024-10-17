@@ -1,4 +1,3 @@
-Run：./run.sh
 # You should download dataset by yourself
 [**Roadmap**](https://github.com/wenet-e2e/wekws/issues/121)
 | [**Paper**](https://arxiv.org/pdf/2210.16743.pdf)
